@@ -1,2 +1,2 @@
 # MoneyMoney-Computershare
-Wertpapierabfrage für Computershare Mitarbeiterkaufprogramme
+Query your employee stock options from Computershare.
